@@ -1,0 +1,11 @@
+C:\Users\ITT\parametros\obj\Debug\netcoreapp3.1\parametros.csprojAssemblyReference.cache
+C:\Users\ITT\parametros\obj\Debug\netcoreapp3.1\parametros.AssemblyInfoInputs.cache
+C:\Users\ITT\parametros\obj\Debug\netcoreapp3.1\parametros.AssemblyInfo.cs
+C:\Users\ITT\parametros\bin\Debug\netcoreapp3.1\parametros.exe
+C:\Users\ITT\parametros\bin\Debug\netcoreapp3.1\parametros.deps.json
+C:\Users\ITT\parametros\bin\Debug\netcoreapp3.1\parametros.runtimeconfig.json
+C:\Users\ITT\parametros\bin\Debug\netcoreapp3.1\parametros.runtimeconfig.dev.json
+C:\Users\ITT\parametros\bin\Debug\netcoreapp3.1\parametros.dll
+C:\Users\ITT\parametros\bin\Debug\netcoreapp3.1\parametros.pdb
+C:\Users\ITT\parametros\obj\Debug\netcoreapp3.1\parametros.dll
+C:\Users\ITT\parametros\obj\Debug\netcoreapp3.1\parametros.pdb
